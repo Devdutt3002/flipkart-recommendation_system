@@ -18,3 +18,6 @@ pip install -r requirements.txt
 
 - <either mention -e . inside your requirements.txt Or run python setup.py install >
 
+## For understanging refer from.
+
+-youtube="https://youtu.be/shtPVU5zXkM?si=bd3o8J3qTeUW7gTI"
