@@ -17,8 +17,8 @@ def get_requirements() ->List[str]:
 setup(
     name = "flipkart",
     version= "0.0.1",
-    author="Dhruv-Saxena",
-    author_email="dhruvsaxena.uk@gmail.com",
+    author="Dev-kaushik",
+    author_email="devdutt3002@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements()
 )
