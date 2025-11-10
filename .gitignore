@@ -11,5 +11,5 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-# Exclude notebook with hardcoded secrets - users should use .env file instead
+
 notebook/Flipkart_chatbot.ipynb
